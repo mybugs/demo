@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 I am changed on demo2 br2
+resovled
+=======
+on br11
+>>>>>>> bb7359fc1d2b6dbedba415f53ce407bb5f7d3cf2
 resovled
